@@ -1,2 +1,0 @@
-# Tarea-Python
-Repositorio personal
